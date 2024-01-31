@@ -1,2 +1,3 @@
-# Currency-Rate
-SQL Flutter Test - USD Currency Rate
+# currency_rate
+
+A new Flutter project.
